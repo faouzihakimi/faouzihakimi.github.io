@@ -10,6 +10,6 @@ Cette page présente mon sujet de thèse et les publications en rapport avec cel
 
 Ici vous trouverez les projets personnels en rapport avec la science des données que j'ai pu réalisé.
 
-# Articles
+# Articles de blog
 
 Cette page liste les différents articles autour des statistiques et de la science des données que j'ai pu écrire.
