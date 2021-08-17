@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: "La statistique décryptée"
-description: "Faouzi Hakimi : projets et articles sur la statistique et les sciences données"  
+description: "Faouzi Hakimi : projets et articles sur la statistique et les sciences données"
+menu: [A propos][projets][articles]
