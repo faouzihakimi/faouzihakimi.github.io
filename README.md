@@ -2,7 +2,7 @@
 
 Cette page présente mon CV, dans une version aussi complète et pertinente que possible.
 
-#Projet de thèse
+# Projet de thèse
 
 Cette page présente mon sujet de thèse et les publications en rapport avec celle-ci.
 
