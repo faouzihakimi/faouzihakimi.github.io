@@ -1,4 +1,4 @@
-#Mon CV
+# Mon CV
 
 Cette page présente mon CV, dans une version aussi complète et pertinente que possible.
 
@@ -6,10 +6,10 @@ Cette page présente mon CV, dans une version aussi complète et pertinente que 
 
 Cette page présente mon sujet de thèse et les publications en rapport avec celle-ci.
 
-#Projets personnels
+# Projets personnels
 
 Ici vous trouverez les projets personnels en rapport avec la science des données que j'ai pu réalisé.
 
-#Articles
+# Articles
 
 Cette page liste les différents articles autour des statistiques et de la science des données que j'ai pu écrire.
