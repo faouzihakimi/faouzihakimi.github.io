@@ -1,3 +1,6 @@
 theme: pages-themes/minimal@v0.2.0
 title: "Faouzi Hakimi"
 description: "Bienvenu sur ma page ! Vous y trouverez des informations concernant mon travail, mes projets personnels ainsi que quelques articles en rapport avec la statistique ou la science des données."
+logo: /assets/img/logo.png
+show_downloads: true
+theme: jekyll-theme-minimal
